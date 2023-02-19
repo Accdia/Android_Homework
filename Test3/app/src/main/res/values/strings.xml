@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test3</string>
+    <string name="add">add</string>
+    <string name="sub">sub</string>
+    <string name="mul">mul</string>
+    <string name="div">div</string>
+</resources>
